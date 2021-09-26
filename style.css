@@ -1,0 +1,9 @@
+*{
+    margin: 0px;
+    padding:0px;
+  }
+  body{
+    background-color:darkslategray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+  }
