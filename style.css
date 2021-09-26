@@ -18,3 +18,22 @@
     font-size: 30px;
   }
   
+  .pofoi{
+    height:800px;
+    background-color: cadetblue;
+    margin: 10px;
+    padding-top: 50px;
+    padding-right: 400px;
+    padding-bottom: 400px;
+    padding-left: 400px;
+    text-align: center;
+    border: 20px;
+    border-radius: 20px;
+  }
+  img{
+    height: 200px;
+    width: 300px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    
+  }
