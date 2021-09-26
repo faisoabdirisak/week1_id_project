@@ -56,3 +56,14 @@
     text-align: center;
   
   }
+  .photo{
+    height: 500px;
+    width: 1300px;
+    margin: 40px;
+    
+    
+  }
+  .col {
+    float: left;
+    
+  }
