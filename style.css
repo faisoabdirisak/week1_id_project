@@ -67,3 +67,17 @@
     float: left;
     
   }
+  .services{
+    height:500px;
+    width: 1440px;
+    background-color:slategray;
+    border: 20px;
+    border-radius: 20px;
+    margin: 20px;
+    padding-left: 30px;
+  }
+  .ser{
+    padding-left: 60px;
+    font-size: 20px;
+    font-weight: bolder;
+  }
