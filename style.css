@@ -17,6 +17,21 @@
   #p1{
     font-size: 30px;
   }
+  .intro{
+    margin: 10px;
+    padding-top: 50px;
+    padding-right: 400px;
+    padding-bottom: 400px;
+    padding-left: 400px;
+    text-align: center;
+    height: 80px;
+    background-color: cornflowerblue;
+    background-image: url("images/cost.jpg");
+    background-repeat: no-repeat;
+    background-size: 1600px;
+    border: 20px;
+    border-radius: 20px;
+  }
   
   .pofoi{
     height:800px;
