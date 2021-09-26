@@ -81,3 +81,22 @@
     font-size: 20px;
     font-weight: bolder;
   }
+  .info{
+    background-color:grey;
+    padding: 30px;
+    margin: 20px;
+    height: 1000px;
+    width: 1410px;
+    border: 20px;
+  border-radius: 20px;
+  }
+  .add{
+    border-radius: 5px;
+    height: 400px;
+    padding-left: 300px;
+    font-weight: bold;
+    font-size: 20px;
+    color:black
+    
+    
+  }
