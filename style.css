@@ -52,6 +52,9 @@
     padding-top: 20px;
     
   }
+  .col img{
+    padding: 0;
+  }
   #p2{
     text-align: center;
   
@@ -64,7 +67,10 @@
     
   }
   .col {
-    float: left;
+    display: flex;
+    justify-content:center;
+    flex-wrap: wrap;
+    width: 99%;
     
   }
   .services{
