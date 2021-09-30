@@ -40,7 +40,7 @@
 
 MIT License
 
-Copyright (c) [2019] [Albert Byrone]
+Copyright (c) [2021] [Faiso abdirisak]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -64,7 +64,7 @@ SOFTWARE.
 
 ## Authors Info
 
-github - [Faiso abdirisak](https://app.slack.com/client/T077KKCG6/GLRQR61NW/user_profile/UKXCHMCNP?cdn_fallback=1)
+github - [Faiso abdirisak]https://github.com/faisoabdirisak
 
 
 [Go Back to the top](#portfolio)
