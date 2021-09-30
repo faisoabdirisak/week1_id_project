@@ -64,7 +64,7 @@ SOFTWARE.
 
 ## Authors Info
 
-github - [Faiso abdirisak]https://github.com/faisoabdirisak
+github - [Faiso abdirisak]https://faisoabdirisak.github.io/week1_id_project/
 
 
 [Go Back to the top](#portfolio)
