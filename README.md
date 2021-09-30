@@ -12,10 +12,10 @@ Week one Independent project
 ### before designing the project,you have to consider the parts it contains.
 
 ### The website has 4 parts:
-introduction part
-about me part
-photography part
-service part
-contact info part
+1. introduction part
+2. about me part
+3. photography part
+4. service part
+5. contact info part
 
 https://github.com/faisoabdirisak/week1_id_project
